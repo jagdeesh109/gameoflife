@@ -26,6 +26,9 @@ Working on documentation, tutorials.
 <p>
 Game of life works on certain predefined rules. At initial level a single cell is defined, each cell will have individual behaviour based on the rules defined. we will extend behaviour of the cell to 1-Dimension,2-Dimension,3-Dimension till N-Dimension. We will also observe pattern genrated in each dimension    
 </p>
+## Rules for gameoflife
+
+
 
 
 ## Contributing
