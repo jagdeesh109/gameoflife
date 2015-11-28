@@ -14,8 +14,8 @@ Practically a docter who does moniter life cycle of cell at laboratory. The appr
 
 - Google Group: #
 - Twitter: #
-- [GitHub Issues]
-- [StackOverflow]
+- [GitHub Issues] : #
+- [StackOverflow] : #
 
 ##Important note
 
