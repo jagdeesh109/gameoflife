@@ -10,6 +10,13 @@ I thank to sir "John Horton Conway" for his recognition and discovery of such a 
 Practically a docter who does moniter life cycle of cell at laboratory. The approxmiate behaviour of the cell can be understood using a simulated results by a program
 </p>
 
+## Communication
+
+- Google Group: #
+- Twitter: #
+- [GitHub Issues]
+- [StackOverflow]
+
 ##Important note
 
 <p>
