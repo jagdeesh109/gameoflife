@@ -46,6 +46,9 @@ Game of life works on certain predefined rules. At initial level a single cell i
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
+Contributions to the editor welcome. If you've implemented a cool new feature that you would like to share, please feel free to open a pull request here.  
+
+
 ##License
 MIT
 
