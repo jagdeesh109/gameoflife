@@ -39,7 +39,7 @@ check [Rules](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 * This rules are applied for 1-Dimension and will be extended to N-Dimension.
 
 
-
+##Table of Contents
 
 ## Contributing
 
